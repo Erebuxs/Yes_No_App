@@ -41,7 +41,7 @@ class _ImageBubble extends StatelessWidget {
     return ClipRRect(
       borderRadius: BorderRadius.circular(20),
       child: Image.network(
-        'https://yesno.wtf/assets/screenrecording-a3c84026f1d0d1a104d67d2a7aabcea8.gif',
+        "https://yesno.wtf/assets/no/31-cc391a4c0332a4ce5b4d4666f64a7b4a.gif",
         width: size.width * 0.5,
         height: 125,
         fit: BoxFit.cover,
